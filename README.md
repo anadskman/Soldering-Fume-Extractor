@@ -9,7 +9,7 @@ When im soldering it seems like the smoke tries its best to come towards me.
 - It can Tilt
 - It Extracts Fumes
 - Speed Control
-- Under $30(depending on shipping)
+- Under $50(depending on sales)
 
 ## BOM
 - Female Plug 12V DC
